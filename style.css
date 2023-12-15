@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("360_F_248065175_UKqGpkZFZG3mPBKKKpxseqS6VlIlmzq7.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#button1{
+    margin-top: 2%;
+    margin-left: 48%;
+}
+
+.b1:hover{
+    background-color: yellow;
+}
+
+#t1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-31{
+    height: 30px;
+    width: 120px;
+}
